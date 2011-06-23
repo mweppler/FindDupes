@@ -1,0 +1,5 @@
+Due to my lack of hardcore experience with spreadsheets, and on finding duplicates within columns, I started building my own tool. FindDupes is fairly simple to use. Double click the FindDupes.jar file, select a *.csv file, choose the field to search and the field type (string, or int), and it searches for duplicates. If you find it useful or have some feedback let me know.
+
+If you're working with a field that has an extreme amount of dupes you'll run out of memory. (In most instances this will never be the case) If this happens you probably wouldn't be using this app cause you'd know you have a lot of duplicates. If you still need to for some reason, I included a FindDupes script that will increase the amount of memory the app uses.
+
+-Matt
